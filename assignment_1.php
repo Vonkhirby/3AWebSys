@@ -9,7 +9,6 @@ $program = "BS Information Technology";
 $photo = "profilePic/profile.jpg";
 ?>
 
-
 <!DOCTYPE html>
 <html>
 <head>
