@@ -14,7 +14,7 @@
     <table style="width:100%; border: 20px solid #c7b700; border-collapse: collapse; color: #004a91">
         <tr>
             <td colspan="2" style="background-color: #004a91; padding: 50px; text-align:center">
-                <h1 style="color: white; margin: 0;">Submitted Information</h1>
+                <h1 style="color: white; margin: 0;"><?php echo $name; ?></h1>
             </td>
         </tr>
         <tr>
