@@ -1,4 +1,4 @@
-<form action="activity_2(2).php" method="get">
+<form action="assignment_2(2).php" method="get">
     <table style="width:100%; border: 20px solid #c7b700; border-collapse: collapse; color: #004a91">
         <tr>
             <td colspan="2" style="background-color: #004a91; padding: 50px; text-align:center">
